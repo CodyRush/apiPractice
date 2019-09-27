@@ -1,0 +1,39 @@
+body {
+    background: #a52929;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player-card {
+    background: #fff;
+    box-shadow: 4px 4px 4px 0px rgba(136, 136, 136, 0.836);
+    padding: 1.5rem;
+    margin-top: 4rem;
+    width: 600px;
+    text-align: center;
+    
+}
+
+.personal-profile {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1.3rem;
+}
+
+header h2 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+header p {
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
